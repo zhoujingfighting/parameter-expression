@@ -1,0 +1,11 @@
+{
+  "name": "parameter-expression",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zhoujingfighting/parameter-expression.git",
+  "author": "Zhou Jing <jing.zhou@terapines.com>",
+  "license": "MIT",
+  "dependencies": {
+    "expr-eval": "^2.0.2"
+  }
+}
